@@ -1,1 +1,3 @@
 # PortfolioTracker
+
+npx prettier --write .
